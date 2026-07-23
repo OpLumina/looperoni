@@ -158,7 +158,7 @@ looperoni -f endpoints.txt -e "curl -s [https://api.example.com/](https://api.ex
 ---
 
 ## License
-
+```
 MIT License
 
 ```
