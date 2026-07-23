@@ -151,7 +151,7 @@ looperoni -f urls.txt -e "curl -I {var}" -d 2
 Delay execution by a random floating-point duration between **0.5 seconds and 3.5 seconds** between iterations:
 
 ```bash
-looperoni -f endpoints.txt -e "curl -s [https://api.example.com/](https://api.example.com/){var}" -d 0.5,3.5
+looperoni -f endpoints.txt -e "curl -s https://api.example.com/{var}" -d 0.5,3.5
 
 ```
 
