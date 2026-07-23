@@ -1,6 +1,6 @@
 # looperoni
 
-`looperoni` is a lightweight, zero-dependency CLI tool designed to process a text file line-by-line and execute a shell command using each line. It supports custom placeholder replacement and fixed or randomized execution delays (throttling).
+`looperoni` is a lightweight, zero-dependency CLI tool designed to process a text file line-by-line and execute a shell command using each line. It supports custom placeholder replacement and fixed or randomized execution delays (throttling), allowing you to execute a command using every line of a file one-by-one with a simple plug-and-play variable.
 
 ---
 
